@@ -1,4 +1,4 @@
-1-usul
+x = 1234
 
 res = 1
 for number in str(x) :
@@ -7,4 +7,3 @@ for number in str(x) :
 
 print(res)
 
-2-usul
